@@ -50,7 +50,7 @@ Welcome to the C Programming Tutorial repository! 🚀 In this comprehensive gui
 
 1. Clone the repository.
 2. Follow the lessons sequentially to grasp the basics of C programming.
-3. Complete the final project to build your own simple calculator.
+3. Complete the final project to build your own Multi-Threaded Arithmetic Server.
 
 Feel free to customize, enhance, and share this tutorial with others! Happy coding! 🖥️💡
 
